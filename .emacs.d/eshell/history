@@ -1,0 +1,128 @@
+./test.exe 
+ls
+go vet ip-check.go 
+go vet ip-check.go 
+go vet ip-check.go 
+go run 
+go run ip-check.go 
+clear
+go run ip-check.go xd
+go run ip-check.go 127.0.0.1
+go doc net.IP
+go doc net.ParseIP
+go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
+go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
+go run env go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
+go run env GOROOT go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
+go env GOROOT go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
+go env GOROOT go test -run ParseIP -bench ParseIP -w $(go env GOROOT)/src/net
+go env GOROOT go test -run ParseIP -bench ParseIP -w $(go env GOROOT)/src/net
+go env GOROOT go test -run ParseIP -bench ParseIP -w go env GOROOT/src/net
+go env GOROOT go test -run ParseIP -bench ParseIP -count=1 go env GOROOT/src/net
+go test net -run ParseIP -bench ParseIP -benchmem -count=1
+go test net -run ParseIP -bench ParseIP -benchmem -count=1grep
+go test net -run ParseIP -bench ParseIP -benchmem -count=1
+grep -I TestParseIP -nr net /Arquivos\ de\ Programas/Go/src/net/ip_test.go 
+go run mask.go 
+go vet mask.go 
+go run mask.go
+go run mask.go 127.0.0.1 24 32
+go doc net.CIDRMask
+do doc net.IP
+go doc net.IP
+go doc To4
+go doc net.IP To4
+go doc net ip-check.go 
+go doc net.IP ip-check.go 
+do doc net.IPv4
+go doc net.IPv4
+go doc net.IPv4Mask
+clear 
+go mod tidy
+go tidy ipv4mask.go 
+go help
+go run ipv4mask.go 127.0.01
+go run ipv4mask.go 127.0.0.1
+go doc net.DefaultMask
+go doc net.Mask.Size
+go doc nMask.Size
+go doc Mask.Size
+go doc net Mask
+go vet ipv4router.go 
+go run ipv4router.go 
+go run ipv4router.go 
+go doc net.ResolveIPAddr
+go doc net.DIal
+go doc net.Dial
+cd ..
+cd ..
+cd ..
+ccd Desktop/
+cd Desktop/
+cd gabriel/
+cd dev/go/network/ch3/
+go vet resolveip.go 
+go run resolveip.go 
+go run resolveip.go www.google.com
+go doc net.LookupPort
+go doc net.TCPConn
+go vet getheadinfo.go 
+go run getheadinfo.go 
+go run getheadinfo.go golang.org
+go run getheadinfo.go golang.org:80
+go run getheadinfo.go fulaninhojohnson.com:80
+clear
+go run getheadinfo.go golang.org:80
+go run daytimeserver.go 
+cd ..
+cd..
+cd ..
+cd ..
+ls
+cd Desktop/gabriel/dev/go/network/ch3/
+clear
+go run daytimeserver.go 
+go vet daytimeserver.go 
+go run daytimeserver.go 
+go run daytimeserver.go 
+go vet daytimeserver.go 
+go run daytimeserver.go 
+go run daytimeserver.go 
+go doc string
+go vet daytimeserver.go 
+go vet daytimeserver.go 
+go run daytimeserver.go 
+go vet multithread-echo-server.go 
+go run multithread-echo-server.go 
+go run multithread-echo-server.go 
+go test -test.v -run "Timeout|KeepAlive" -count=1 go env GOROOT/src/net
+go test -test.v -run "Timeout|KeepAlive" -count=1 go env /src/net
+go test -test.v -run "Timeout|KeepAlive" -count=1 /src/net
+go test -test.v -run "Timeout|KeepAlive" -count=1 /go env src/net
+go test -test.v -run "Timeout|KeepAlive" -count=1 /go env /net
+go test -test.v -run "Timeout|KeepAlive" -count=1 go env /net
+go run multithread-echo-server.go 
+clear
+go doc net/websocket
+go doc net.websocket
+go doc net
+clear
+clear 
+cd ..
+ls
+cd ch15/
+mkdir echo
+cd echo/
+go mod init echoserver
+go mod tidy
+ls 
+go run echoserver.go 
+go mod tidy
+go get "golang.org/x/net/websocket"
+go modd tidy
+go mod tidy
+go vet echoserver.go 
+go get golang.org/x/net/websocket
+go mod tidy
+go vet echoserver.go 
+go run echoserver.go 
