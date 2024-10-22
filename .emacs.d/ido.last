@@ -1,0 +1,87 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/" . "ch3/")
+ ("c:/" . "Users/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/" . "go/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/" . "ch3/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/" . "network/")
+ ("c:/Users/savio.000/Desktop/gabriel/" . "dev/")
+ ("c:/Users/savio.000/Desktop/" . "gabriel/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch2/" . "ex-2.2/")
+ ("c:/Users/" . "savio.000/")
+ ("c:/Users/savio.000/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echo/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch3/"
+ "c:/Users/savio.000/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch3/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch2/ex-2.2/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "echoclient.go"
+ "echoserver.go"
+ "go.mod"
+ "multithread-echo-server.go"
+ "daytimeserver.go"
+ "getheadinfo.go"
+ "resolveip.go"
+ "ipv4router.go"
+ "ipv4mask.go"
+ "mask.go"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echo/" (26390 61582 0 0) "go.sum" "go.mod" "echoserver.go~" "echoserver.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/" (26390 49768 0 0) "ch3/" "ch15/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch3/" (26390 48654 0 0) "resolveip.go~" "resolveip.go" "multithread-echo-server.go~" "multithread-echo-server.go" "mask.go" "ipv4router.go" "ipv4mask.go" "ip-check.go" "getheadinfo.go~" "getheadinfo.go" "daytimeserver.go~" "daytimeserver.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/" (26390 60606 0 0) "echo/" "../" "./")
+
+ ("c:/Users/savio.000/Calibre Library/Jan Newmarch/Network Programming with Go Language (4)/" (26390 49712 0 0) "Network Programming with Go Lan - Jan Newmarch.epub" "metadata.opf" "cover.jpg" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/" (26389 24853 0 0) "network/" "learn-go/" "chat-app/" "atproto/" "../" "./")
+
+ ("c:/Users/savio.000/" (26389 28736 0 0) "[200~" "【歌ってみた】ドーナツホール【かえみとがびと】 [-775vZhdBx0].mp4" "~/" "Videos/" "Uninstall.exe" "Tracing/" "sqlite/" "source/" "SendTo/" "Searches/" "scoop/" "Saved Games/" "Recent/" "readme.txt" "proto/" "Postman/" "Pictures/" "package.json" "OneDrive/" "ntuser.ini" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "Music/" "Modelos/" "mingw64/" "Meus Documentos/" "Menu Iniciar/" "Links/" "lein.bat" "include/" "go/" "Games/" "freditor/" "foobar2000/" "Favorites/" "emacs-29.4/" "Downloads/" "Documents/" "Desktop/" "Dados de Aplicativos/" "Cookies/" "Contacts/" "Configurações Locais/" "clopad/" "Calibre Library/" "bun.lockb" "bin/" "AppData/" "apache-maven-3.9.7/" "Ambiente de Rede/" "Ambiente de Impressão/" "3D Objects/" ".vscode/" ".vivaldi_reporting_data" ".templateengine/" ".sqldeveloper/" ".rustup/" ".node_repl_history" ".minttyrc" ".minio/" ".m2/" ".librarymanager/" ".lein/" ".jdks/" ".idlerc/" ".gnupg/" ".gitconfig" ".gfclient/" ".emacs~" ".emacs.d/" ".emacs.custom~" ".emacs.custom.el~" ".emacs.custom.el" ".emacs" ".dotnet/" ".docker/" ".config/" ".clojure/" ".chocolatey/" ".cargo/" ".cache/" ".bun/" ".bash_profile" ".bash_history" ".bashrc" "../" "./")
+
+ ("c:/Users/savio.000/Calibre Library/" (26389 25075 0 0) "Yehonathan Sharvit/" "metadata_db_prefs_backup.json" "metadata.db" "Lucas, Michael W/" "Kleppmann, Martin/" "Joshua Noble/" "Jon Bodner/" "John Schember/" "Jan Newmarch/" "Dmitri Sotnikov/" ".calnotes/" "../" "./")
+
+ ("c:/Users/savio.000/Calibre Library/Jan Newmarch/" (26389 25060 0 0) "Network Programming with Go Language (4)/" "../" "./")
+
+ ("c:/Users/savio.000/.cargo/" (26387 1667 0 0) "registry/" "bin/" ".package-cache-mutate" ".package-cache" ".global-cache" ".crates2.json" ".crates.toml" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch3/" (26389 11164 0 0) "test.go~" "test.go" "test.exe" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/" (26389 8073 0 0) "ch3/" "ch2/" "ch1/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch2/ex-2.2/" (26388 4977 0 0) "go.mod" "exercise-2.2.go~" "exercise-2.2.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/" (26379 11869 0 0) "ts/" "rust/" "python/" "protobuf-28.2/" "go/" "clojure/" "c/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/" (26387 53075 0 0) "wp/" "visuals/" "udemy/" "txt/" "pfp/" "pcbuild.txt" "office/" "maymays/" "losslesscut/" "jeimes/" "dev/" "daisuushi_video.mp4" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/" (26380 15298 0 0) "Vivaldi.lnk" "Sublime Text.lnk" "Postman.lnk" "mpv-shot0017.jpg" "mpv-shot0016.jpg" "mpv-shot0013.jpg" "mpv-shot0010.jpg" "mpv-shot0009.jpg" "mpv-shot0008.jpg" "mpv-shot0007.jpg" "mpv-shot0006.jpg" "mpv-shot0005.jpg" "mpv-shot0004.jpg" "mpv-shot0003.jpg" "mpv-shot0002.jpg" "mpv-shot0001.jpg" "lafp-sample-1.0.0.pdf" "gabriel/" "Docker Desktop.lnk" "Discord.lnk" "desktop.ini" "dbeaver CE.lnk" "Crusader Kings III.url" "Age of Empires II Definitive Edition.url" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch2/" (26387 3847 0 0) "ex-2.2/" "ex-2.1/" "../" "./")
+
+ ("c:/Users/All Users/" (26345 64501 0 0) "WindowsHolographicDevices/" "Windows App Certification Kit/" "USOShared/" "USOPrivate/" "Templates/" "SupportAssistDbBackup/" "Start Menu/" "ssh/" "SoftwareDistribution/" "shimgen/" "Riot Games/" "regid.2018-12.com.oracle,DatabaseXE_73DCB47E-6580-4B8E-A733-0F80616C5344.swidtag" "regid.1991-06.com.microsoft/" "Packages/" "Package Cache/" "Oracle/" "NVIDIA Corporation/" "NVIDIA/" "Mozilla-1de4eec8-1241-4177-a864-e594e8d1fb38/" "Modelos/" "Microsoft Visual Studio/" "Microsoft OneDrive/" "Microsoft DevDiv/" "Microsoft/" "Menu Iniciar/" "Intel/" "GOG.com/" "fltk.org/" "Firefly Studios/" "Documents/" "Documentos/" "DockerDesktop/" "Desktop/" "Dell/" "Dados de Aplicativos/" "ChocolateyHttpCache/" "chocolatey/" "Application Data/" "A-Volute/" "../" "./")
+
+ ("c:/Users/" (26208 56609 0 0) "Usuário Padrão/" "Todos os Usuários/" "savio.000/" "savio/" "Public/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/savio.000/3D Objects/" (26208 56495 0 0) "desktop.ini" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
