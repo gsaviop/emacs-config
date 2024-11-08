@@ -2,11 +2,21 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/" . "ch3/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/rust/rustlings/exercises/" . "18_iterators/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/rust/rustlings/" . "exercises/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/rust/" . "rustlings/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/" . "server/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/" . "cmd/")
+ ("c:/Users/savio.000/.emacs.d/" . "auto-save-list/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/src/" . "client/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/" . "src/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/" . "gorilla/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch7/" . "perm/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/" . "ch15/")
  ("c:/" . "Users/")
  ("c:/Users/savio.000/Desktop/gabriel/dev/" . "go/")
  ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/" . "ch3/")
- ("c:/Users/savio.000/Desktop/gabriel/dev/go/" . "network/")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/" . "chasqui/")
  ("c:/Users/savio.000/Desktop/gabriel/" . "dev/")
  ("c:/Users/savio.000/Desktop/" . "gabriel/")
  ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch2/" . "ex-2.2/")
@@ -16,10 +26,35 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echo/"
- "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/"
- "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch3/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/gorilla/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/rust/rustlings/exercises/18_iterators/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/testes/file/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/testes/"
  "c:/Users/savio.000/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/server/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/client/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echo/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/build/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echotls/"
+ "c:/Users/savio.000/.emacs.d/mode/"
+ "c:/Users/savio.000/.emacs.d/"
+ "c:/Users/savio.000/.emacs.d/auto-save-list/"
+ "c:/Users/savio.000/Downloads/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/src/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/gochess/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/src/server/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/sql/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/html/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch3/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch7/perm/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch7/hash/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch7/"
+ "c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/json/"
  "c:/Users/savio.000/Desktop/gabriel/dev/go/network/"
  "c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch3/"
  "c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/"
@@ -28,33 +63,97 @@
 
 ;; ----- ido-work-file-list -----
 (
- "echoclient.go"
- "echoserver.go"
+ "Makefile"
+ "file.go"
  "go.mod"
- "multithread-echo-server.go"
- "daytimeserver.go"
- "getheadinfo.go"
- "resolveip.go"
- "ipv4router.go"
- "ipv4mask.go"
- "mask.go"
+ "gocui.go"
+ "terminal.go"
+ "commands.go"
+ "echoservergorilla.go"
+ "echoclientgorilla.go"
+ "echoclient.go"
+ ".gitignore"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echo/" (26390 61582 0 0) "go.sum" "go.mod" "echoserver.go~" "echoserver.go" "../" "./")
+ ("c:/Users/savio.000/" (26406 50399 0 0) "[200~" "~/" "Videos/" "Uninstall.exe" "Tracing/" "teste.c~" "teste.c" "sqlite/" "source/" "senpai/" "SendTo/" "Searches/" "scoop/" "Saved Games/" "rust-analyzer/" "Recent/" "readme.txt" "proto/" "Postman/" "Pictures/" "package.json" "openssl-3.4.0.tar" "OneDrive/" "ntuser.ini" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf" "NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.blf" "NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.2.regtrans-ms" "NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.1.regtrans-ms" "NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "Music/" "Modelos/" "mingw64/" "Meus Documentos/" "Menu Iniciar/" "Links/" "lein.bat" "irssi/" "include/" "hello.exe" "go/" "glib-2.82.2.tar" "glib-2.82.2/" "Games/" "foobar2000/" "Favorites/" "emacs-rust-config/" "emacs-config/" "emacs-29.4/" "Downloads/" "Documents/" "Desktop/" "Dados de Aplicativos/" "Cookies/" "Contacts/" "Configurações Locais/" "Calibre Library/" "bun.lockb" "bin/" "AppData/" "apache-maven-3.9.7/" "Ambiente de Rede/" "Ambiente de Impressão/" "3D Objects/" ".vscode/" ".vivaldi_reporting_data" ".viminfo" ".templateengine/" ".sqldeveloper/" ".rustup/" ".node_repl_history" ".minttyrc" ".minio/" ".m2/" ".librarymanager/" ".lesshst" ".lein/" ".jdks/" ".irssi/" ".idlerc/" ".gnupg/" ".gitconfig" ".gfclient/" ".emacs~" ".emacs.d/" ".emacs.custom.el~" ".emacs.custom.el" ".emacs" ".dotnet/" ".docker/" ".config/" ".clojure/" ".chocolatey/" ".cargo/" ".cache/" ".bun/" ".bash_profile" ".bash_history" ".bashrc" "../" "./")
 
- ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/" (26390 49768 0 0) "ch3/" "ch15/" "../" "./")
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/testes/" (26405 10410 0 0) "terminal.go~" "terminal.go" "terminal.exe" "pointer.go~" "pointer.go" "gocui.go~" "gocui/" "go.sum" "go.mod" "file/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/testes/file/" (26405 11339 0 0) "folder/" "file.go~" "file.go" "file.exe" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/" (26405 10690 0 0) "testes/" "network/" "learn-go/" "gochess/" "chat-test/" "chat-app/" "chasqui/" "atproto/" "--help/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/rust/rustlings/exercises/18_iterators/" (26246 13149 0 0) "README.md" "iterators5.rs" "iterators4.rs" "iterators3.rs" "iterators2.rs" "iterators1.rs" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/rust/rustlings/exercises/" (26246 13149 0 0) "README.md" "quizzes/" "23_conversions/" "22_clippy/" "21_macros/" "20_threads/" "19_smart_pointers/" "18_iterators/" "17_tests/" "16_lifetimes/" "15_traits/" "14_generics/" "13_error_handling/" "12_options/" "11_hashmaps/" "10_modules/" "09_strings/" "08_enums/" "07_structs/" "06_move_semantics/" "05_vecs/" "04_primitive_types/" "03_if/" "02_functions/" "01_variables/" "00_intro/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/rust/rustlings/" (26246 13498 0 0) "target/" "solutions/" "exercises/" "Cargo.toml" "Cargo.lock" ".vscode/" ".rustlings-state.txt" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/rust/" (26246 13149 0 0) "rustlings/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/" (26405 4705 0 0) "Makefile" "go.sum" "go.mod" "commands.go" "cmd/" "build/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/server/" (26405 9280 0 0) "server.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/" (26404 4376 0 0) "Vivaldi.lnk" "Sublime Text.lnk" "Postman.lnk" "mpv-shot0017.jpg" "mpv-shot0016.jpg" "mpv-shot0013.jpg" "mpv-shot0010.jpg" "mpv-shot0009.jpg" "mpv-shot0008.jpg" "mpv-shot0007.jpg" "mpv-shot0006.jpg" "mpv-shot0005.jpg" "mpv-shot0004.jpg" "mpv-shot0003.jpg" "mpv-shot0002.jpg" "mpv-shot0001.jpg" "lafp-sample-1.0.0.pdf" "GbQImCJWYAAvBou.jpg" "GbBhNopWMAAna0t.jpg" "gabriel/" "Docker Desktop.lnk" "Discord.lnk" "desktop.ini" "dbeaver CE.lnk" "../" "./")
+
+ ("c:/Users/savio.000/Downloads/" (26401 27768 0 0) "超スーパーウルトラホット covered by ソフィア・ヴァレンタイン×五十嵐梨花 1-9 screenshot.png" "超スーパーウルトラホット covered by ソフィア・ヴァレンタイン×五十嵐梨花 1-12 screenshot.png" "泣かないと出られない部屋 【前編】 3-40 screenshot.png" "助けてください。１人で花見をすることになりました。 7-5 screenshot.png" "人マニア _ 原口沙輔 (covered by 緑仙) 1-27 screenshot.png" "人マニア _ 原口沙輔 (covered by 緑仙) 1-27 screenshot (1).png" "人マニア _ 原口沙輔 (covered by 緑仙) 1-26 screenshot.png" "【漫画】本当のような嘘の話？？架空の面接に思いをはせるエルフ【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 1-24 screenshot.png" "【漫画】本当のような嘘の話？？架空の面接に思いをはせるエルフ【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 1-12 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 1-38 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 1-35 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 1-15 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 0-47 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 0-43 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 0-41 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 0-33 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 0-26 screenshot.png" "【漫画】女子高生がアイス片手に関西弁のレッスンをしてくれるよー！！【マンガ動画】【アニメ】にじさんじ☆ぷちさんじ VTuber 0-24 screenshot.png" "【歌ってみた】さようなら、花泥棒さん covered by 小森めと 0-32 screenshot.png" "【新幹線0号】これを見ても魔族を討伐するべきだと思いますか？【にじさんじ _ 樋口楓】 0-52 screenshot.png" "【新幹線0号】これを見ても魔族を討伐するべきだと思いますか？【にじさんじ _ 樋口楓】 0-47 screenshot.png" "【初衣装】 #サロメのゴージャス新衣装  【ですわーー！】 28-45 screenshot.png" "【初衣装】 #サロメのゴージャス新衣装  【ですわーー！】 28-20 screenshot.png" "【初衣装】 #サロメのゴージャス新衣装  【ですわーー！】 27-52 screenshot.png" "【公式アニメPV】みんなで踊ってみた【生徒会にも穴はある！】 - YouTube - 0-0-06.jpeg" "【ノンクレジットOP】TVアニメ「魔法少女マジカルデストロイヤーズ」／ 愛美「MAGICAL DESTROYER」 1-23 screenshot.png" "【ノンクレジットOP】TVアニメ「魔法少女マジカルデストロイヤーズ」／ 愛美「MAGICAL DESTROYER」 1-23 screenshot (1).png" "【デビュー】無月めもりはオカルト、都市伝説、陰謀論を語っていきます【ライヴラリ】 2-38 screenshot.png" "【デビュー】無月めもりはオカルト、都市伝説、陰謀論を語っていきます【ライヴラリ】 2-19 screenshot.png" "【デビュー】無月めもりはオカルト、都市伝説、陰謀論を語っていきます【ライヴラリ】 1-55 screenshot.png" "【コメ付き】レッツゴー！陰陽師【周央サンゴ_にじさんじ切り抜き】 1-7 screenshot.png" "【コメ付き】レッツゴー！陰陽師【周央サンゴ_にじさんじ切り抜き】 0-47 screenshot.png" "【コメ付き】レッツゴー！陰陽師【周央サンゴ_にじさんじ切り抜き】 0-38 screenshot.png" "【エイプリルフール】バズりと和解せよ【んごちょん】 40-58 screenshot.png" "【エイプリルフール】バズりと和解せよ【んごちょん】 24-46 screenshot.png" "【MV】セガサターン、シロ！　歌った - 赤月ゆに【せがた三四郎】 0-48 screenshot.png" "【MV】セガサターン、シロ！　歌った - 赤月ゆに【せがた三四郎】 0-46 screenshot.png" "【MV】 てんやわんや、夏。 【月ノ美兎 _ 笹木咲 _ 椎名唯華】 - YouTube - 0-2-49.jpeg" "【MV】 てんやわんや、夏。 【月ノ美兎 _ 笹木咲 _ 椎名唯華】 - YouTube - 0-2-20.jpeg" "【MV】 てんやわんや、夏。 【月ノ美兎 _ 笹木咲 _ 椎名唯華】 - YouTube - 0-2-19.jpeg" "【MV】 NEVER GLOW UP _ JK組 【オリジナル曲】 3-45 screenshot.png" "【MV】 NEVER GLOW UP _ JK組 【オリジナル曲】 3-28 screenshot.png" "【MV】 NEVER GLOW UP _ JK組 【オリジナル曲】 3-28 screenshot (1).png" "【MV】 NEVER GLOW UP _ JK組 【オリジナル曲】 3-24 screenshot.png" "【MV】 NEVER GLOW UP _ JK組 【オリジナル曲】 2-49 screenshot.png" "【MV】 NEVER GLOW UP _ JK組 【オリジナル曲】 2-49 screenshot (1).png" "【MV】 NEVER GLOW UP _ JK組 【オリジナル曲】 1-36 screenshot.png" "【CXコラボ】有野課長様とサロメがおバイオハザード7をプレイ！【ですわ⁉】 1-2 screenshot.png" "【CXコラボ】有野課長様とサロメがおバイオハザード7をプレイ！【ですわ⁉】 1-2 screenshot (1).png" "【3D LIVE】月ノ美兎の３D新衣装お披露目！ゲストもいるよ！【#委員長の新3D衣装】 50-5 screenshot.png" "【3D DEBUT】finally turning your dreams into reality! #HanaMacchia3D【にじさんじ・Hana Macchia】 6-10 screenshot.png" "【3.0お披露目】3.0殺人事件【名探偵 周央サンゴ】 35-30 screenshot.png" "【3.0お披露目】3.0殺人事件【名探偵 周央サンゴ】 35-28 screenshot.png" "【3.0お披露目】3.0殺人事件【名探偵 周央サンゴ】 35-11 screenshot.png" "【3.0お披露目】3.0殺人事件【名探偵 周央サンゴ】 0-6 screenshot.png" "【#かわいい楓さま】💭☁️🤍新衣装お披露目🤍☁️💭【にじさんじ _ 樋口楓】 42-52 screenshot.png" "【#かわいい楓さま】💭☁️🤍新衣装お披露目🤍☁️💭【にじさんじ _ 樋口楓】 36-27 screenshot.png" "【#かわいい楓さま】💭☁️🤍新衣装お披露目🤍☁️💭【にじさんじ _ 樋口楓】 36-25 screenshot.png" "【#かわいい楓さま】💭☁️🤍新衣装お披露目🤍☁️💭【にじさんじ _ 樋口楓】 36-20 screenshot.png" "【#かわいい楓さま】💭☁️🤍新衣装お披露目🤍☁️💭【にじさんじ _ 樋口楓】 32-43 screenshot.png" "【 #小清水透3D 】なんと3Dになりました。お披露目🎤✨【小清水 透 _ にじさんじ】 1-52 screenshot.png" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-3-17.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-3-16.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-1-32.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-0-54.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-0-53.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-0-47.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-0-43.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-0-41.jpeg" "『キミと✕✕✕✕したいだけ』 covered by 月ノ美兎× 宝鐘マリン× 壱百満天原サロメ× 周央サンゴ× 沙花叉クロヱ - YouTube - 0-0-11.jpeg" "[SubsPlease] Nige Jouzu no Wakagimi - 03 (1080p) [4FE230C9].mkv.torrent" "[NakayubiSubs] Girls Band Cry - 13 END (1080p).mkv" "[INBOUND RECRUITING] E-book_Guia da pessoa candidata.pdf" "[DDS T09] Apresentação do Desafio M05.pdf" "[Cerberus] Mobile Suit Gundam 00 S1 + S2 + Movie [BD 1080p HEVC 10-bit AAC]/" "ZjLfk23TReay35Nt0wXmew_d36a57f22bd64bd4afd6bbaa6c21c9f1_Course-5-Week-4-Glossary-_-DA-terms-and-definitions.docx" "Zeni Geva - Autofuck - 1993-00-00 (Vinyl - MP3 - 128).torrent" "ZAZEN BOYS - Rando - 2024-01-24 (CD - FLAC - Lossless).torrent" "Zak Cope (editor)_ Immanuel Ness (editor) - The Oxford handbook of economic imperialism-Oxford University Press, USA (2022).pdf" "Yuyoyuppe - SICK - 2023-01-22 (WEB - FLAC - Lossless).torrent" "Yuuhi Riri Figures Out Why Lauren Iroas Didn't Have His 3D Until Now【Nijisanji_Eng Sub】 1-4 screenshot.png" "Yuko Miyamura - Tadaitai Shi Kishi - 1999-08-25 (CD - FLAC - Lossless).torrent" "Yuko Miyamura - Kokoro yo Genshi ni Modore ~2012 Version~ - 2012-01-11 (CD - MP3 - 320).torrent" "Yoshida Ichiro Untouchable World - Epithesi - 2020-05-13 (WEB - FLAC - Lossless).torrent" "yomibaba-chrome.zip" "Yi zhi you dao hai shui bian lan AKA Swimming Out Till the Sea Turns Blue.2020.Blu-ray.x264.MKV.1055800.torrent" "Yellow Magic Orchestra - Solid State Survivor - 1992 (CD - FLAC - Lossless).torrent" "Yellow Magic Orchestra - BGM - 1992 (CD - FLAC - Lossless).torrent" "Yellow Magic Orchestra - BGM - 1981-03-21 (Vinyl - MP3 - 320).torrent" "Yanagawa horiwari monogatari AKA The Story of Yanagawa's Canals.1987.720p.Blu-ray.x264.MKV.429989.torrent" "WVrKn2WnQ3yayp9lpwN81g_21738ed89f43425e9a1b42599e444ef1_Learning-Log-Template_-Review-a-slide-presentation.docx" "World.on.a.Wire.1973.720p.BluRay.Opus.1.0.x264-NCmt.mkv" "Woman Rebel.2010.720p.HDTV.x264.MKV.88103.torrent" "Woman Rebel - HBO Documentary.mkv" "wj4z5l.srt" "WhatsApp Image 2021-01-23 at 20.19.23.jpeg" "wH245XUS4RY7t50F.mp4" "Welt am Draht AKA World on a Wire.1973.720p.Blu-ray.x264.MKV.816872.torrent" "WD7BknW5qbxaN6k.torrent" "VSCodeUserSetup-x64-1.90.2.exe" "VjMupF4E" "Vivaldi.6.7.3329.39.x64.exe" "VisualStudioSetup.exe" "Videos Nuggets - João - metodo.pdf" "VacinaSimples.pdf" "V.A. - Ai ga yue yueAre Kara (zetsubou shojotachi 2020) - 2020-06-17 (WEB - MP3 - 320).torrent" "UtsuP - HAPPYPILLS - 2023-08-11 (WEB - MP3 - 320).torrent" "UtsuP - HAPPYPILLS - 2023-08-11 (CD - FLAC - Lossless).torrent" "unzip-5.51-1.exe" "UNDEAD CORPORATION - Boukun - 2013-08-12 (CD - MP3 - 320).torrent" "twittervid.com_CarmesimSara_96f41f.mp4" "Tw4jATRw.htm" "TVアニメ『ガールズバンドクライ』本予告第1弾【2024年4月5日(金)より放送開始】 1-39 screenshot.png" "TVアニメ『ガールズバンドクライ』本予告第1弾【2024年4月5日(金)より放送開始】 1-36 screenshot.png" "TVアニメ『ガールズバンドクライ』本予告第1弾【2024年4月5日(金)より放送開始】 0-52 screenshot.png" "TVアニメ『ガールズバンドクライ』本予告第1弾【2024年4月5日(金)より放送開始】 0-51 screenshot.png" "TVアニメ『ガールズバンドクライ』キャラクターPV_ルパ編【2024年4月5日(金)より放送開始】 0-22 screenshot.png" "tumblr_a9a57794811d14b95d8bb2705ec1ce76_413de715_640.jpg" "Tsukino Mito - Tsuki no Usagi wa Virtual no Yume o Miru - 2021-08-11 (WEB - FLAC - Lossless).torrent" "The_flag_of_the_Japanese_shogunate_in_Victoria_3_1.pdf" "They Do Not Exist.1974.DVD.x264.MKV.633007.torrent" "The.Story.of.Yanagawas.Canals.1987.720p.BluRay.x264-HANDJOB.mkv" "The.Emperors.Naked.Army.Marches.On.1987.JAPANESE.1080p.BluRay.H264.AAC-VXT-[rarbg.to].torrent" "The.Emperors.Naked.Army.Marches.On.1987.JAPANESE.1080p.BluRay.H264.AAC-VXT/" "The.Boy.and.the.Heron.2023.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv" "The Zone of Interest.2023.1080p.WEB.H.264.MKV.1265249.torrent" "The Origins of Russian Authoritarianism 2-9 screenshot.png" "The Origins of Russian Authoritarianism 2-16 screenshot.png" "The Origins of Russian Authoritarianism 2-0 screenshot.png" "teste.jpg" "termo de estagio - GABRIEL SAVIOLI PACHECO.docx" "TEI_of_Google_SAP+on+Google+Cloud_20200728_Rev12.pdf" "TCE Gabriel Savioli.pdf" "Taliban have their work cut out to win hearts and minds in Kabul • FRANCE 24 English 0-47 screenshot.png" "Taliban have their work cut out to win hearts and minds in Kabul • FRANCE 24 English 0-46 screenshot.png" "SumatraPDF-3.5.2-64-install.exe" "sublime_text_build_4169_x64_setup.exe" "Storyboard tcc.pdf" "Storyboard 4. VHT DOS FINALISTAS.pdf" "SteamSetup.exe" "Statistics_Cheat_Sheet.pdf" "ssstwitter.com_1720570594650.mp4" "sqlite-tools-win-x64-3460000.zip" "sqlite-dll-win-x64-3460000.zip" "sqlite-dll-win-x64-3450100.zip" "sqldeveloper/" "Spell.Reel.2017.1080p.MUBI.WEB-DL.AAC2.0.H.264-Cinefeel.mkv" "Spell Reel.2017.1080p.WEB.H.264.MKV.545978.torrent" "Spare Time.1939.1080p.Bluray.X264.AC3-KESH.mkv" "Spare Time.1939.1080p.Blu-ray.x264.MKV.243865.torrent" "Source+Code+Section+9+All+Lectures+Working+With+Other+Data+Types+" "SoulseekQt-2024-2-1-64bit.exe" "Sony PlayStation 2 BIOS (U)(v1.6)(2002-03-19)[SCPH39004].zip" "Sony PlayStation 2 BIOS (J)(v0.1)(2000-01-17)[SCPH10000].zip" "Smoking 0-35 screenshot.png" "ShareX-16.1.0-setup.exe" "SFML-2.6.1-windows-vc17-64-bit.zip" "Severance Season 1 Mp4 1080p/" "Setembro_Challenge_Dados.ipynb" "SDSDSDSDSDSDSDSDD.torrent" "Screenshot 2023-04-13 at 11-46-06 Coodesh Avaliar e Recrutar Desenvolvedores.png" "SAT JANEIRO 2023.docx" "sakanaction - 834.194 - 2019-06-19 (WEB - MP3 - V0 (VBR)).torrent" "S.T.A.L.K.E.R. - IWP COTZ.7z" "Ryoko Shintani - Wonderful world - 2007-12-19 (CD - MP3 - 320).torrent" "rustup-init.exe" "Ruina (English Version 1.03).rar" "roteiro v4.pdf" "Revolution Until Victory A.K.A. We Are the Palestinian People.1973.480p.WEB.x264.MKV.1257636.torrent" "Revolution Until Victory (Newsreel, 1973).mkv" "result.jpg" "Relatório do TCC.pdf" "Relatorio de Habilidades (1).xlsx" "Red Persimmons/" "Recibo_2023-05-08_164421.pdf" "qtCZpDBbQdmQmaQwW3HZaw_2cb723c3463247219f33eabec643213e_Demystifying-Value-Presentation.pptx" "qbittorrent_4.6.5_x64_setup.exe" "pré preenchido estagio obrigatorio na UFSCar.docx" "protoc-28.2-win64.zip" "protobuf-28.2.zip" "Projeção CIS 2021-2024 - ENPE _ Híbrido _ Presencial 15-12-2020.pdf" "Profile (1).pdf" "Procuracao Colacao de Grau.docx" "private_letter.pdf" "PowerISO8-x64.exe" "Postman-win64-Setup.exe" "Pass_JLPT_N4_Vocabulary.apkg" "output-onlinegiftools.gif" "Ottodix-Eole-foobar-theme-v1.2.3b23-1-gbd4973f.zip" "Otoboke Beaver - ITEKOMA HITS - 2019-04-16 (WEB - MP3 - 320).torrent" "Opera Instantâneo_2023-04-15_155125_www.linkedin.com.png" "Opera Instantâneo_2023-04-15_145823_www.infojobs.com.br.png" "Opera Instantâneo_2023-04-12_211110_www.linkedin.com.png" "OemKey.exe" "O Cinema e a Produção - Chris Rodrigues.pdf" "npp.8.6.6.Installer.x64.exe" "NPL.txt" "np2fmgen.7z" "nodejs-app-starting-setup.zip" "node-v20.17.0-x64.msi" "nmap-7.95-setup.exe" "nizar_banat.mp4" "NEK! - EXCLAMAT!ON - 2024-07-24 (WEB - FLAC - Lossless).torrent" "ncm.txt" "ncm(1).txt" "mp-wallet_20240222223911_6e21.pdf" "mingwInstaller.exe" "mingw-w64-install.exe" "mingw-builds-binaries-14.2.0-rt_v12-rev0.zip" "Mimori Yusa - HOPE - 1990-09-21 (CD - FLAC - Lossless).torrent" "Michael.Clayton.2007.1080p.BluRay.DD5.1.x264-VietHD.mkv" "Michael Clayton.2007.1080p.Blu-ray.x264.MKV.320359.torrent" "MEt6HXxqS_-Leh18ajv__w_fb3d75d0ad8740d2b240b226422b864c_Data-Journal_-Journal-Entry-Templates.docx" "meson-1.6.0-64.msi" "mariadb-11.4.2-winx64.msi" "maomaovid.gif" "maomao.gif" "Manzan benigaki AKA Red Persimmons.2001.DVD.x264.MKV.632464.torrent" "Man.in.the.Well.AKA.Jing.Li.De.Ren.2016.720p.SUBBED.WEBRip.x264-gooz.mkv" "LosslessCut-win-x64.7z" "Little Forest SummerAutumn.2014.1080p.Blu-ray.x264.MKV.415416.torrent" "LibreOffice_24.2.3_Win_x86-64.msi" "lazyXel-ShareX-15.0.0-settings.sxb" "LazyXel Yomichan Setup (2023-08-03).7z" "Kokeshi Doll - Pirukorui - 2003-03-25 (CD - MP3 - 192).torrent" "Kessoku Band - Kessoku Band - 2022-12-25 (WEB - FLAC - Lossless).torrent" "KANJIDIC_english.zip" "Kaede Higuchi - AIM - 2020-12-16 (WEB - FLAC - 96kHz  24bit).torrent" "jitendex-yomitan-2024-06-02.zip" "Jingi naki tatakai Hiroshima shito hen AKA Battles Without Honour and Humanity Hiroshima Death Match.1973.720p.Blu-ray.x264.MKV.396504.torrent" "Jing li de ren AKA Man in the Well.2016.720p.WEB.x264.MKV.594296.torrent" "JetBrainsMono-2.304.zip" "jetbrains-mono/" "Jaws.1975.1080p.BluRay.DTS.x264.D-Z0N3.mkv" "Jaws.1975.1080p.Blu-ray.x264.MKV.162670.torrent" "JA2_v1.13_Release_(EN)_[1.0.0.2085].exe" "JA2_113-v1-G0f38Ld66a-English.7z" "Install VALORANT.exe" "icechat-setup.exe" "https%3a%2f%2fmirrors.tencent.com%2fcygwin%2f/" "How To Modernize a Backwards Country - Gigachad Guide Victoria 3 - Russia 8-13 screenshot.png" "How To Create The Ultimate Social Democracy - Victoria 3 GigaChad Guide - America 4-5 screenshot.png" "How 1 Software Engineer Outperforms 138 - Lichess Case Study - YouTube - 0-14-19.jpeg" "How 1 Software Engineer Outperforms 138 - Lichess Case Study - YouTube - 0-1-50.jpeg" "hotswap-agent.jar" "Hiroshima Shito Hen.1973.720p.BluRay.AVC-mfcorrea/" "HimeHina - Heart Pie Dancehall - 2023-12-15 (WEB - FLAC - 2496).torrent" "Herman Melville - Moby-Dick or, The Whale-Penguin Group (2002).epub" "HALCALI - TOKYO GROOVE - 2010-05-26 (CD - MP3 - 320).torrent" "Guia rápido da nova opção na integração com balança.pdf" "Guia rápido da nova opção na integração com balança.docx" "GOG_Galaxy_Jagged_Alliance_2.exe" "GitKrakenSetup.exe" "gh_2.60.1_windows_amd64.msi" "Genghis Khan 2004 Ep 4 _ Eng sub 成吉思汗 29-5 screenshot.png" "GBPCEF.exe" "GAHoNgTakAAwsNX.mp4" "Gabriel Savioli Pacheco 11777376637.pfx" "freetube-0.20.0-setup-x64.exe" "formulario-autorizacao-deposito-ri-ufscarv1.1.pdf" "foobar2000_v2.1.5.exe" "Font.7z" "Folder.jpg" "Fidaï.2012.720p.WEB.H.264.MKV.888116.torrent" "FICHA DE CADASTRO DE COLABORADOR [preenchida].xlsx" "extrato-itau_09_12_2023_11-11.pdf" "Everything-1.4.1.1024.x64-Setup.exe" "Evangelion3.0(-46h).2023.1080p.Blu-ray.x264.MKV.1144314.torrent" "estagio obrigatorio realizado na UFSCar.docx" "Envio de comandas em lote.mp4" "Endon - Boy Meets Girl - 2018-09-05 (CD - MP3 - 320).torrent" "emacs-29.4-installer.exe" "Egressos 2022.pdf" "ED_1_SERPRO_2023_ABERTURA.PDF" "eduroam-W10-U-UFdSC-eduroam_acesso_a_toda_comunidade.exe" "Ebook_002.pdf" "Dragon Ash - Lily of da Valley - 2001-03-14 (CD - MP3 - 320).torrent" "domain.xml" "DOCUMENTACAO [arquivo unico].pdf" "Docker Desktop Installer.exe" "DN23_Sid_Meier.mp3" "DiscordSetup.exe" "DiplomaDigital_Matricula81951.pdf" "diploma.xml" "Dicas Seminários.docx" "Dialnet-EstruturasEInstituicoesDoKongo-3779303.pdf" "desktop.ini" "desenvolvimento de projetos audiovisuais.pdf" "Defesa Caro Kann - Aprendendo Aberturas de Xadrez 7-24 screenshot.png" "declaracaoConclusaoCurso.pdf" "data-0wlGn8aXHz_fAXFEHDgeg.sql" "Daoko and Yohji Igarashi - MAD EP - 2022-03-23 (WEB - FLAC - 2448).torrent" "DAOKO - Slash-and-Burn - 2024-05-22 (WEB - MP3 - V0 (VBR)).torrent" "CV - Gabriel Savioli Pacheco.pdf" "CV - Gabriel Savioli Pacheco-1.pdf" "Curriculo+-+Gabriel+Savioli+Pacheco.pdf" "CTPS_11777376637_2023-05-08T17.pdf" "CRW-Metal-Jacket_PC-98_EN-JA.zip" "Creepy Nuts - Yofukashino Uta - 2019-08-07 (WEB - MP3 - V0 (VBR)).torrent" "Core 2k_6k Optimized Japanese Vocabulary.apkg" "COOLandCREATE - Help me, ERINNNNNN!! LOVE - 2018-12-30 (CD - MP3 - 320).torrent" "ComputerEnhance/" "Comprovantes_de_Matricula-Gabriel-Savioli.zip" "Comprovantes_de_Matricula-Gabriel-Savioli(1).zip" "Comissão - Junho_24 [GABRIEL S. PACHECO].xlsx" "combined.jpg" "codigos_fundamentos_python-20220503T220909Z-001.zip" "Chikoi The Maid - Victim.zip" "cavestoryen.zip" "castle.in.the.sky.(1986).eng.1cd.(9895117).zip" "castle.in.the.sky.(1986).eng.1cd.(8255721).zip" "Captura de tela 2024-09-13 082622.png" "capsule - METRO PULSE - 2022 (CD - FLAC - Lossless).torrent" "calibre-64bit-7.12.0.msi" "BRyExtensionModule-x64.exe" "BRyExtensionModule-x64(1).exe" "Brubaker.mp3" "BiSH - GOiNG TO DESTRUCTiON - 2021-08-04 (WEB - MP3 - 320).torrent" "Ba ta zhi guang AKA The Shadowless Tower.2023.1080p.WEB.H.264.MKV.1227281.torrent" "avanteweb3.toml" "Autorização para Deposito do TCC COVID 2077.pdf" "aspell-0.60.8.1.tar" "Around The World _ MONKEY MAJIK【月ノ美兎 (cover)】 2-15 screenshot.png" "Around The World _ MONKEY MAJIK【月ノ美兎 (cover)】 1-47 screenshot.png" "apresentacao avante pet v3 (resumida).pptx" "apache-maven-3.9.7-bin.zip" "AnyDesk.exe" "anki-24.06.3-windows-qt6.exe" "Amakusa.Shiro.Tokisada.AKA.The.Rebel.1962.DVDRip.x264-HANDJOB/" "Amakusa shiro tokisada AKA The Rebel.1962.DVD.x264.MKV.197967.torrent" "AlbumArtSmall.jpg" "Afghans express mixed feelings about interim government 0-32 screenshot.png" "Afghans express mixed feelings about interim government 0-28 screenshot.png" "Afghans express mixed feelings about interim government 0-26 screenshot.png" "7d2SozRKTF6dkqM0SvxeKQ_817d5ed1d6b74e0493f84dae8d575af1_Course-4-Week-6-Glossary-_-DA-terms-and-definitions.docx" "3.8+Understand+Orange-Company-Structure.pdf" "20-o.jpg" "19.jpg" "18.jpg" "1716328973531361.webm" "1692893575124900.webm" "1162-M-31-Recibo de Pagamento.pdf" "1162-M-31-Recibo de Pagamento-3.pdf" "1162-M-31-Recibo de Pagamento-1.pdf" "05.jpg" "02.jpg" "../" "./")
+
+ ("c:/Users/savio.000/.emacs.d/auto-save-list/" (26402 48117 0 0) ".saves-19144-DESKTOP-P532VJO~" ".saves-18068-DESKTOP-P532VJO~" "../" "./")
+
+ ("c:/Users/savio.000/.emacs.d/" (26401 26486 0 0) "transient/" "nov-places" "mode/" "ido.last~" "ido.last" "eshell/" "elpa/" "eln-cache/" "auto-save-list/" ".lsp-session-v1" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/build/" (26401 26545 0 0) "chasqui-server" "chasqui-client" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/client/" (26401 26524 0 0) "client.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/" (26402 17964 0 0) "wp/" "visuals/" "udemy/" "txt/" "pfp/" "pcbuild.txt" "office/" "maymays/" "losslesscut/" "jeimes/" "dev/" "daisuushi_video.mp4" "Cheatsheet-emacs.pdf" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/" (26401 25154 0 0) "server/" "client/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/" (26401 23843 0 0) "todo.md~" "todo.md" "src/" "go.sum" "go.mod" ".gitignore~" ".gitignore" ".env" "../" "./")
+
+ ("c:/Users/savio.000/.emacs.d/mode/" (26401 18870 0 0) "simpc-mode.el" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chasqui/cmd/chasqui/" (26397 2710 0 0) "main.go~" "main.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/gorilla/" (26401 19460 0 0) "go.sum" "go.mod" "echoservergorilla.go~" "echoservergorilla.go" "echoclientgorilla.go~" "echoclientgorilla.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/src/" (26395 63140 0 0) "util/" "server/" "main.go~" "main.go" "client/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/gochess/" (26395 48698 0 0) "statics/" "README.md" "pkg/" "LICENSE" "gochess.service" "go.sum" "go.mod" "cmd/" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/sql/" (26395 9648 0 0) "teste.db" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/src/client/" (26380 21143 0 0) "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/chat-app/src/server/" (26380 21139 0 0) "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/" (26395 2074 0 0) "ts/" "sql/" "rust/" "python/" "protobuf-28.2/" "go/" "clojure/" "c/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/html/" (26393 42407 0 0) "websocket.html~" "websocket.html" "timerserver.go~" "timerserver.go" "timer.sh~" "timer.bat~" "timer.bat" "go.sum" "go.mod" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/" (26394 42624 0 0) "json/" "html/" "gorilla/" "go.sum" "go.mod" "echotls/" "echo/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echotls/" (26393 17517 0 0) "private.pem" "jan.newmarch.name.pem" "echoservertls.go~" "echoservertls.go" "echoclienttls.go~" "echoclienttls.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch7/perm/" (26393 16275 0 0) "public.key" "private.pem" "private.key" "loadx509cert.go~" "loadx509cert.go" "loadRSAkey.go~" "loadRSAkey.go" "jan.newmarch.name.pem" "jan.newmarch.name.cer" "genx509cert.go~" "genx509cert.go" "genRSAkey.go~" "genRSAkey.go" "../" "./")
+
+ ("c:/Users/savio.000/Calibre Library/Jan Newmarch/Network Programming with Go Language (4)/" (26393 16905 0 0) "Network Programming with Go Lan - Jan Newmarch.epub" "metadata.opf" "cover.jpg" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch7/" (26393 15468 0 0) "perm/" "hash/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch7/hash/" (26393 14779 0 0) "md5hash.go~" "md5hash.go" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/" (26393 14014 0 0) "ch7/" "ch3/" "ch15/" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/json/" (26392 5739 0 0) "jsonserver.go~" "jsonserver.go" "jsonclient.go~" "jsonclient.go" "go.sum" "go.mod" "../" "./")
+
+ ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/echo/" (26390 63312 0 0) "go.sum" "go.mod" "echoserver.go~" "echoserver.go" "echoclient.go~" "echoclient.go" "../" "./")
 
  ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch3/" (26390 48654 0 0) "resolveip.go~" "resolveip.go" "multithread-echo-server.go~" "multithread-echo-server.go" "mask.go" "ipv4router.go" "ipv4mask.go" "ip-check.go" "getheadinfo.go~" "getheadinfo.go" "daytimeserver.go~" "daytimeserver.go" "../" "./")
-
- ("c:/Users/savio.000/Desktop/gabriel/dev/go/network/ch15/" (26390 60606 0 0) "echo/" "../" "./")
-
- ("c:/Users/savio.000/Calibre Library/Jan Newmarch/Network Programming with Go Language (4)/" (26390 49712 0 0) "Network Programming with Go Lan - Jan Newmarch.epub" "metadata.opf" "cover.jpg" "../" "./")
-
- ("c:/Users/savio.000/Desktop/gabriel/dev/go/" (26389 24853 0 0) "network/" "learn-go/" "chat-app/" "atproto/" "../" "./")
-
- ("c:/Users/savio.000/" (26389 28736 0 0) "[200~" "【歌ってみた】ドーナツホール【かえみとがびと】 [-775vZhdBx0].mp4" "~/" "Videos/" "Uninstall.exe" "Tracing/" "sqlite/" "source/" "SendTo/" "Searches/" "scoop/" "Saved Games/" "Recent/" "readme.txt" "proto/" "Postman/" "Pictures/" "package.json" "OneDrive/" "ntuser.ini" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "Music/" "Modelos/" "mingw64/" "Meus Documentos/" "Menu Iniciar/" "Links/" "lein.bat" "include/" "go/" "Games/" "freditor/" "foobar2000/" "Favorites/" "emacs-29.4/" "Downloads/" "Documents/" "Desktop/" "Dados de Aplicativos/" "Cookies/" "Contacts/" "Configurações Locais/" "clopad/" "Calibre Library/" "bun.lockb" "bin/" "AppData/" "apache-maven-3.9.7/" "Ambiente de Rede/" "Ambiente de Impressão/" "3D Objects/" ".vscode/" ".vivaldi_reporting_data" ".templateengine/" ".sqldeveloper/" ".rustup/" ".node_repl_history" ".minttyrc" ".minio/" ".m2/" ".librarymanager/" ".lein/" ".jdks/" ".idlerc/" ".gnupg/" ".gitconfig" ".gfclient/" ".emacs~" ".emacs.d/" ".emacs.custom~" ".emacs.custom.el~" ".emacs.custom.el" ".emacs" ".dotnet/" ".docker/" ".config/" ".clojure/" ".chocolatey/" ".cargo/" ".cache/" ".bun/" ".bash_profile" ".bash_history" ".bashrc" "../" "./")
 
  ("c:/Users/savio.000/Calibre Library/" (26389 25075 0 0) "Yehonathan Sharvit/" "metadata_db_prefs_backup.json" "metadata.db" "Lucas, Michael W/" "Kleppmann, Martin/" "Joshua Noble/" "Jon Bodner/" "John Schember/" "Jan Newmarch/" "Dmitri Sotnikov/" ".calnotes/" "../" "./")
 
@@ -67,12 +166,6 @@
  ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/" (26389 8073 0 0) "ch3/" "ch2/" "ch1/" "../" "./")
 
  ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch2/ex-2.2/" (26388 4977 0 0) "go.mod" "exercise-2.2.go~" "exercise-2.2.go" "../" "./")
-
- ("c:/Users/savio.000/Desktop/gabriel/dev/" (26379 11869 0 0) "ts/" "rust/" "python/" "protobuf-28.2/" "go/" "clojure/" "c/" "../" "./")
-
- ("c:/Users/savio.000/Desktop/gabriel/" (26387 53075 0 0) "wp/" "visuals/" "udemy/" "txt/" "pfp/" "pcbuild.txt" "office/" "maymays/" "losslesscut/" "jeimes/" "dev/" "daisuushi_video.mp4" "../" "./")
-
- ("c:/Users/savio.000/Desktop/" (26380 15298 0 0) "Vivaldi.lnk" "Sublime Text.lnk" "Postman.lnk" "mpv-shot0017.jpg" "mpv-shot0016.jpg" "mpv-shot0013.jpg" "mpv-shot0010.jpg" "mpv-shot0009.jpg" "mpv-shot0008.jpg" "mpv-shot0007.jpg" "mpv-shot0006.jpg" "mpv-shot0005.jpg" "mpv-shot0004.jpg" "mpv-shot0003.jpg" "mpv-shot0002.jpg" "mpv-shot0001.jpg" "lafp-sample-1.0.0.pdf" "gabriel/" "Docker Desktop.lnk" "Discord.lnk" "desktop.ini" "dbeaver CE.lnk" "Crusader Kings III.url" "Age of Empires II Definitive Edition.url" "../" "./")
 
  ("c:/Users/savio.000/Desktop/gabriel/dev/go/learn-go/ch2/" (26387 3847 0 0) "ex-2.2/" "ex-2.1/" "../" "./")
 

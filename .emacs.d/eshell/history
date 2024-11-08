@@ -1,128 +1,128 @@
-./test.exe 
+go run timerserver.go 
+go run timerserver.go 
+go run timerserver.go 
+go run timerserver.go 
+go vet timerserver.go 
+go run timerserver.go 
+go run timerserver.go 
+go run timerserver.go 
+go doc time
+go doc time.Now
+go doc time.Now.Format
+go doc time.Now().Format
+go doc time.Now
+go doc time.Now
+go run timerserver.go 
+go run timerserver.go 
+go run timerserver.go 
+go mod init 
+go mod init gorilla
+go mod tidy
+go vet echoservergorilla.go 
+go run echoservergorilla.go 
+go vet echoclientgorilla.go 
+go run echoservergorilla.go 
 ls
-go vet ip-check.go 
-go vet ip-check.go 
-go vet ip-check.go 
-go run 
-go run ip-check.go 
-clear
-go run ip-check.go xd
-go run ip-check.go 127.0.0.1
-go doc net.IP
-go doc net.ParseIP
-go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
-go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
-go run env go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
-go run env GOROOT go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
-go env GOROOT go test -run ParseIP -bench ParseIP -count=1 $(go env GOROOT)/src/net
-go env GOROOT go test -run ParseIP -bench ParseIP -w $(go env GOROOT)/src/net
-go env GOROOT go test -run ParseIP -bench ParseIP -w $(go env GOROOT)/src/net
-go env GOROOT go test -run ParseIP -bench ParseIP -w go env GOROOT/src/net
-go env GOROOT go test -run ParseIP -bench ParseIP -count=1 go env GOROOT/src/net
-go test net -run ParseIP -bench ParseIP -benchmem -count=1
-go test net -run ParseIP -bench ParseIP -benchmem -count=1grep
-go test net -run ParseIP -bench ParseIP -benchmem -count=1
-grep -I TestParseIP -nr net /Arquivos\ de\ Programas/Go/src/net/ip_test.go 
-go run mask.go 
-go vet mask.go 
-go run mask.go
-go run mask.go 127.0.0.1 24 32
-go doc net.CIDRMask
-do doc net.IP
-go doc net.IP
-go doc To4
-go doc net.IP To4
-go doc net ip-check.go 
-go doc net.IP ip-check.go 
-do doc net.IPv4
-go doc net.IPv4
-go doc net.IPv4Mask
-clear 
-go mod tidy
-go tidy ipv4mask.go 
-go help
-go run ipv4mask.go 127.0.01
-go run ipv4mask.go 127.0.0.1
-go doc net.DefaultMask
-go doc net.Mask.Size
-go doc nMask.Size
-go doc Mask.Size
-go doc net Mask
-go vet ipv4router.go 
-go run ipv4router.go 
-go run ipv4router.go 
-go doc net.ResolveIPAddr
-go doc net.DIal
-go doc net.Dial
-cd ..
-cd ..
-cd ..
-ccd Desktop/
-cd Desktop/
-cd gabriel/
-cd dev/go/network/ch3/
-go vet resolveip.go 
-go run resolveip.go 
-go run resolveip.go www.google.com
-go doc net.LookupPort
-go doc net.TCPConn
-go vet getheadinfo.go 
-go run getheadinfo.go 
-go run getheadinfo.go golang.org
-go run getheadinfo.go golang.org:80
-go run getheadinfo.go fulaninhojohnson.com:80
-clear
-go run getheadinfo.go golang.org:80
-go run daytimeserver.go 
-cd ..
-cd..
-cd ..
-cd ..
+time go run pointer.go 
+git clone https://github.com/qnkhuat/gochess.git
 ls
-cd Desktop/gabriel/dev/go/network/ch3/
-clear
-go run daytimeserver.go 
-go vet daytimeserver.go 
-go run daytimeserver.go 
-go run daytimeserver.go 
-go vet daytimeserver.go 
-go run daytimeserver.go 
-go run daytimeserver.go 
-go doc string
-go vet daytimeserver.go 
-go vet daytimeserver.go 
-go run daytimeserver.go 
-go vet multithread-echo-server.go 
-go run multithread-echo-server.go 
-go run multithread-echo-server.go 
-go test -test.v -run "Timeout|KeepAlive" -count=1 go env GOROOT/src/net
-go test -test.v -run "Timeout|KeepAlive" -count=1 go env /src/net
-go test -test.v -run "Timeout|KeepAlive" -count=1 /src/net
-go test -test.v -run "Timeout|KeepAlive" -count=1 /go env src/net
-go test -test.v -run "Timeout|KeepAlive" -count=1 /go env /net
-go test -test.v -run "Timeout|KeepAlive" -count=1 go env /net
-go run multithread-echo-server.go 
-clear
-go doc net/websocket
-go doc net.websocket
-go doc net
-clear
-clear 
-cd ..
+cd gochess/
 ls
-cd ch15/
-mkdir echo
-cd echo/
-go mod init echoserver
 go mod tidy
-ls 
-go run echoserver.go 
+ls
+go run gochess.service 
+go get gochess.service 
+ssh gochess.club
+go build gochess
+ls
+cd ..
+cd testes/
+go mod init testes
 go mod tidy
-go get "golang.org/x/net/websocket"
-go modd tidy
+go vet terminal.go 
+go build -o terminal terminal.go
+ls
+go build -o terminal.exe terminal.go
+ls
+./terminal.exe 
+go build terminal.exe terminal.go
+go build -o terminal terminal.go
+ls
+go build -o terminal.exe terminal.go 
+go run main.go 
+go run main.go 
+go run main.go 
+ipconfig
+hostname -I | awk '{print $1}' 
+go run main.go 
+go run main.go 
+ls
+gcc -o hello teste.c 
+gcc -o hello teste.c 
+gcc -o hello teste.c 
+gcc -o hello teste.c 
+./hello.exe 
+ls
+go run echoservergorilla.go 
+go run echoservergorilla.go 
+go run echoservergorilla.go 
+go run server.go 
+go run server.go 
+go get github.com/gorilla/websocket
+go run server.go 
+go run server.go 
+go vet terminal.go 
+go --help
+go clean
+go build terminal.go 
+./terminal.exe 
+go clean
+go build terminal.go 
+go clean
+go build terminal.go 
+go clean
+go build terminal.go 
+go clean
+go build terminal.go 
+go clean
+go build terminal.go 
+go clean
+go build terminal.go 
+go build terminal.go 
+go clean
+go build terminal.go 
+go clean
+go build terminal.go 
+go mod init testes
+go get github.com/jroimartin/gocui
+go vet gocui.go 
+go build gocui gocui.go 
+go build -o gocui.go 
+mkdir gocui
+cd gocui/
+go mod init gocui
 go mod tidy
-go vet echoserver.go 
-go get golang.org/x/net/websocket
+go vet gocui.go 
+go build gocui.go 
+go clean
+go build gocui.go 
+cd ..
+cd ..
+make 
+go vet
 go mod tidy
-go vet echoserver.go 
-go run echoserver.go 
+make clean
+cd ..
+cd chasqui/
+cd build/
+./chasqui-server 
+make clean
+make
+make clean
+go vet
+go run file.go 
+go run file.go 
+tree
+go vet
+go build file.go 
+ls
